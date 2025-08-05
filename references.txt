@@ -1,0 +1,30 @@
+REFERENCES
+
+1. HostedScan Security
+   - Website: https://hostedscan.com
+   - About: HostedScan provides automated security scanning for web apps, networks, and APIs.
+
+2. Vulnerability Definitions:
+   - Vulnerability: A flaw in software or hardware that may allow attackers to compromise system security.
+   - Accepted Vulnerability: A known issue accepted as non-critical or part of system design.
+   - Severity Levels:
+     - Critical (9.0–10.0)
+     - High (7.0–8.9)
+     - Medium (4.0–6.9)
+     - Low (0.1–3.9)
+     - Accepted (Reviewed and allowed)
+
+3. Open TCP Ports:
+   - Description: Network ports actively accepting connections (e.g., HTTP on port 80).
+   - Tool: Nmap — a network mapping and port scanning tool.
+   - Note: No open ports were found in this scan.
+
+4. CVSS Score:
+   - CVSS: Common Vulnerability Scoring System v3.0
+   - Reference: https://www.first.org/cvss/
+
+5. EPSS Score:
+   - EPSS: Exploit Prediction Scoring System
+   - Measures likelihood of vulnerability exploitation within 30 days.
+
+Glossary source: `sanchita.pdf` by HostedScan Security
