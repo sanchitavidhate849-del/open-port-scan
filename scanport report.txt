@@ -1,0 +1,36 @@
+VULNERABILITY SCAN REPORT
+Prepared by: HostedScan Security
+Date: August 5, 2025
+
+Target Scanned:
+- IP Address: 208.67.222.226
+
+Summary of Findings:
+- Total Vulnerabilities: 0
+  - Critical: 0
+  - High: 0
+  - Medium: 0
+  - Low: 0
+  - Accepted: 0
+
+Open TCP Ports:
+- None detected during Nmap TCP scan (Top 100 ports scanned)
+
+Scan Details:
+- No vulnerabilities were identified across the scanned services.
+- No exposure to common attack vectors at the time of testing.
+- No open ports were found, indicating minimal attack surface.
+
+Scan Type:
+- HostedScan Lite Port Scan
+- Vulnerability and TCP port scan across full port range (0–65535), but limited to top 100 ports in Lite mode.
+
+Conclusion:
+The scanned target shows no signs of known vulnerabilities or open TCP ports at this time. It is considered secure based on the performed scan.
+
+Tool Information:
+- Tool: HostedScan (https://hostedscan.com)
+- Engine: Nmap-based scanning for TCP ports and common vulnerabilities
+
+Contact:
+hello@hostedscan.com
